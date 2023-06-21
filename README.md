@@ -1,2 +1,1 @@
-# Jan_Cohorts
-Learning Cloud DevOps
+Provisioning with Terraform
